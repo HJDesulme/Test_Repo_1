@@ -2,3 +2,5 @@
 This is a second file.
 
 I'm making edits to this file in order to test "git commit -a"
+
+Commit 1
