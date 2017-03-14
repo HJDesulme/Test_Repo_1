@@ -4,3 +4,5 @@ However, this is the second file to be editted (before gitfile2.txt).
 
 
 This is a change to be merged into the master branch.
+
+Commit
